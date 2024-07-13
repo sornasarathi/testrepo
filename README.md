@@ -1,2 +1,2 @@
-"""thxis repo is for practice github"""
+"""this repo is for practice github"""
 test1
